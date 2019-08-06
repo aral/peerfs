@@ -1,5 +1,5 @@
 {
-  "name": "@coboxcoop/kappa-drive",
+  "name": "kappa-drive",
   "version": "0.0.1",
   "description": "a multiwriter peer to peer filesystem",
   "main": "index.js",
